@@ -1,0 +1,14 @@
+create app: npx create-react-app my-app
+go to folder: cd my-app
+start app: npm start
+
+to deploy project
+create netlify account: https://app.netlify.com/
+go to command promp: type: npm run build
+drag and drop build folder into netlify
+you can change name of url if you want 
+https://www.youtube.com/watch?v=4UZrsTqkcW4&t=8608s
+time: 3:28:00
+
+
+
